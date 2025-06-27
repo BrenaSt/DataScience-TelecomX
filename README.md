@@ -12,7 +12,7 @@ Analisar o comportamento dos clientes e identificar padrões que estejam relacio
 
 ## 🧰 Tecnologias e Bibliotecas Utilizadas
 
-- Python 3
+- Python 
 - Pandas
 - NumPy
 - Matplotlib
@@ -60,7 +60,7 @@ Você pode abrir o notebook diretamente no Google Colab clicando no botão abaix
 
 2. Verifique se o ambiente está pronto
 
-Certifique-se de que o Colab está usando o ambiente Python 3.
+Certifique-se de que o Colab está usando o ambiente Python.
 
 3. Instale as dependências (se necessário)
 A maioria das bibliotecas utilizadas (como pandas, seaborn, matplotlib, numpy) já estão disponíveis no Colab.
